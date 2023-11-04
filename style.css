@@ -68,11 +68,8 @@ h1{
     position: absolute;
     border:#745528 solid 2px;
     border-radius: 50%;
-
     box-sizing: border-box;
-    
     background-size: cover;
-
     height: 4vw;
     width: 4vw;
 }
