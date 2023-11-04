@@ -1,6 +1,7 @@
 {
   "Aatrox": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta877c35110144de9/60ee0b25b9fc8939338c07ae/aatrox-splash.jpg",
+      "picture_position": "70.3646% 32.037%",
       "sex": "Male",
       "release": "2013",
       "home": "Runeterra",
@@ -16,6 +17,7 @@
 },
   "Ahri": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltda668b66206f7f9e/60ee0b41cdb93c284ee3e936/Ahri_0.jpg",
+      "picture_position": "67.4897% 14.6444%",
       "sex": "Female",
       "release": "2011",
       "home": "Ionia",
@@ -31,6 +33,7 @@
 },
   "Akali": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltadda3687d160dca6/60ee0b4666d52e63b8eb6b2f/Classic_Akali_Splash.jpg",
+      "picture_position": "48.9062% 15%",
       "sex": "Female",
       "release": "2010",
       "home": "Ionia",
@@ -46,6 +49,7 @@
 },
   "Akshan": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5e69e0645890bf95/60ee0b48aa56744b33ce03ab/akshan-splash.jpg",
+      "picture_position": "67.7083% 50.9259%",
       "sex": "Male",
       "release": "2021",
       "home": "Shurima",
@@ -61,6 +65,7 @@
 },
   "Alistar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blte97d21767bea1e6b/60ee0b4b1f6a8d297d1d2113/Alistar_0.jpg",
+      "picture_position": "65.1029% 19.3863%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -76,6 +81,7 @@
 },
   "Amumu": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt0d26d3c893fe7d48/60ee0b5085b0422843961375/Amumu_0.jpg",
+      "picture_position": "77.8601% 10.4603%",
       "sex": "Male",
       "release": "2009",
       "home": "Shurima",
@@ -91,6 +97,7 @@
 },
   "Anivia": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt564c38e619cc505c/60ee0b53d42632662baee2bf/Anivia_0.jpg",
+      "picture_position": "58.8477% 22.5941%",
       "sex": "Female",
       "release": "2009",
       "home": "Freljord",
@@ -106,6 +113,7 @@
 },
   "Annie": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt82bcfb363404fdb5/60ee0b65496a232835c1ff45/Annie_0.jpg",
+      "picture_position": "95.5556% 20.2232%",
       "sex": "Female",
       "release": "2009",
       "home": "Runeterra",
@@ -121,6 +129,7 @@
 },
   "Aphelios": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5b04d0076299c48f/60ee0b6960216d1db87a11cd/aphelios-splash.jpg",
+      "picture_position": "52.4211% 4.72371%",
       "sex": "Male",
       "release": "2019",
       "home": "Targon",
@@ -136,6 +145,7 @@
 },
   "Ashe": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5388dc09a75213a1/60ee0b7912cadb2032d63aa7/Classic_Ashe_Splash.jpg",
+      "picture_position": "69.4271% 5.44148%",
       "sex": "Female",
       "release": "2009",
       "home": "Freljord",
@@ -151,6 +161,7 @@
 },
   "Aurelion Sol": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltac9e6a0df59a974e/60ee0b8743739d6620a572d8/AurelionSol_0.jpg",
+      "picture_position": "56.5432% 0.27894%",
       "sex": "Male",
       "release": "2016",
       "home": "Runeterra",
@@ -166,6 +177,7 @@
 },
   "Azir": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt9035b786fd86e68d/60ee0b8d927567256a375e26/Azir_0.jpg",
+      "picture_position": "84.4444% 13.3891%",
       "sex": "Male",
       "release": "2014",
       "home": "Shurima",
@@ -181,6 +193,7 @@
 },
   "Bard": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6730694cadd3ce90/60ee0ba4aa9be3239e98d8e4/Bard_0.jpg",
+      "picture_position": "63.3745% 12.2734%",
       "sex": "Male",
       "release": "2015",
       "home": "Runeterra",
@@ -196,6 +209,7 @@
 },
   "Bel'Veth": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt318127f5a8847c16/62855e95ead0d2559909b064/belveth-splash.jpg",
+      "picture_position": "46.875% 27.7778%",
       "sex": "Female",
       "release": "2022",
       "home": "The Void",
@@ -211,6 +225,7 @@
 },
   "Blitzcrank": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt1487c53fac3d6842/60ee0be35397524ead3890bd/Blitzcrank_0.jpg",
+      "picture_position": "78.4362% 15.7601%",
       "sex": "Male",
       "release": "2009",
       "home": "Zaun",
@@ -226,6 +241,7 @@
 },
   "Brand": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7425b73d37e14379/60ee0be8fdd68748b2b7ccbe/Brand_0.jpg",
+      "picture_position": "88.3951% 6.9735%",
       "sex": "Male",
       "release": "2011",
       "home": "Runeterra",
@@ -241,6 +257,7 @@
 },
   "Braum": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt4bc5fffe8811bf6a/60ee0bfc84a5742702dbc06c/Braum_0.jpg",
+      "picture_position": "88.642% 3.62622%",
       "sex": "Male",
       "release": "2014",
       "home": "Freljord",
@@ -256,6 +273,7 @@
 },
   "Briar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt32fb981bef970760/64ee853a77e0ccf00a9db4f9/briar_splash.jpg",
+      "picture_position": "55.9896% 27.7778%",
       "sex": "Female",
       "release": "2023",
       "home": "Noxus",
@@ -271,6 +289,7 @@
 },
   "Caitlyn": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltcd6fb377c05a2467/619bf377dd6fcd0cf294fd1f/Caitlyn_Base_Final_Adjustment.jpg",
+      "picture_position": "84.2798% 0.97629%",
       "sex": "Female",
       "release": "2011",
       "home": "Piltover",
@@ -286,6 +305,7 @@
 },
   "Camille": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbd386a184535b43d/60ee0c0625b09b4bfcbdf519/camille_splash.jpg",
+      "picture_position": "94.6289% 0.974026%",
       "sex": "Female",
       "release": "2016",
       "home": "Piltover",
@@ -301,6 +321,7 @@
 },
   "Cassiopeia": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blte6f2f7810e3c757c/60ee0c0ef7e95137f9d0488d/Cassiopeia_0.jpg",
+      "picture_position": "69.7119% 7.67085%",
       "sex": "Female",
       "release": "2010",
       "home": "Noxus",
@@ -316,6 +337,7 @@
 },
   "Cho'Gath": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt458d2b6e6331cc3b/60ee0c320311fd25c98c2bb1/Chogath_0.jpg",
+      "picture_position": "58.7654% 27.6151%",
       "sex": "Male",
       "release": "2009",
       "home": "The Void",
@@ -331,6 +353,7 @@
 },
   "Corki": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta150bc0b57f21e72/60ee0c6ec326e45e15154d09/Corki_0.jpg",
+      "picture_position": "79.5062% 12.6918%",
       "sex": "Male",
       "release": "2009",
       "home": "Bandle City",
@@ -346,6 +369,7 @@
 },
   "Darius": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf982b9e4117d5cc2/60ee0c7d33819c6236259c0f/Darius_0.jpg",
+      "picture_position": "61.3169% 0%",
       "sex": "Male",
       "release": "2012",
       "home": "Noxus",
@@ -361,6 +385,7 @@
 },
   "Diana": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc235fa2b417ef7a4/60ee0cb166d52e63b8eb6b3f/Diana_0.jpg",
+      "picture_position": "77.7778% 32.636%",
       "sex": "Female",
       "release": "2012",
       "home": "Targon",
@@ -376,11 +401,12 @@
 },
   "Dr. Mundo": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt1de6f1cc36193557/60ee0cc5a9af29474648beb5/mundo-splash.jpg",
+      "picture_position": "53.6626% 9.48396%",
       "sex": "Male",
       "release": "2009",
       "home": "View Region",
       "specie": "Human, Chemically Altered",
-      "type": "Tank",
+      "type": "Fighter",
       "position": "Top, Jungle",
       "range": "Melee",
       "mana": "Health costs",
@@ -391,6 +417,7 @@
 },
   "Draven": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt36ae14be635e9bdc/60ee0cbf4b5f90610731956a/Draven_0.jpg",
+      "picture_position": "84.3621% 13.947%",
       "sex": "Male",
       "release": "2012",
       "home": "Noxus",
@@ -406,6 +433,7 @@
 },
   "Ekko": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt010cb09f412da7ab/60ee0cd412cadb2032d63ab3/Ekko_0.jpg",
+      "picture_position": "87.3251% 4.1841%",
       "sex": "Male",
       "release": "2015",
       "home": "Zaun",
@@ -421,6 +449,7 @@
 },
   "Elise": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt941efa8bafc6e372/60ee0cdbb403be64e6627796/Elise_0.jpg",
+      "picture_position": "82.8807% 13.6681%",
       "sex": "Female",
       "release": "2012",
       "home": "Shadow Isles",
@@ -436,6 +465,7 @@
 },
   "Evelynn": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltcc9c3d044c357629/60ee0ce5f5c69126a364f900/evelynn-rework-splash.jpg",
+      "picture_position": "51.1979% 11.6505%",
       "sex": "Female",
       "release": "2009",
       "home": "Runeterra",
@@ -451,6 +481,7 @@
 },
   "Ezreal": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt701ca0d74cad88e2/60ee0cf283f3965f5b9868b8/Ezreal_splash.jpg",
+      "picture_position": "67.0782% 19.6653%",
       "sex": "Male",
       "release": "2010",
       "home": "Piltover",
@@ -466,6 +497,7 @@
 },
   "Fiddlesticks": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltecad43e1860aa6d1/60ee0d5783f3965f5b9868c0/fiddlesticks-splash.jpg",
+      "picture_position": "36.6146% 48.0071%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -481,6 +513,7 @@
 },
   "Fiora": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt3431e69df04282e5/60ee0d5e12cadb2032d63ac3/Fiora_0.jpg",
+      "picture_position": "71.1111% 0%",
       "sex": "Female",
       "release": "2012",
       "home": "Demacia",
@@ -496,6 +529,7 @@
 },
   "Fizz": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf6341c794f5cefbd/60ee0d6494d70a1ef31237b5/Fizz_0.jpg",
+      "picture_position": "97.1193% 14.5049%",
       "sex": "Male",
       "release": "2011",
       "home": "Runeterra",
@@ -511,6 +545,7 @@
 },
   "Galio": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2552ecf89c99a831/60ee0da8c941f329772e4d87/Galio_updated_splash.jpg",
+      "picture_position": "48.3951% 8.92608%",
       "sex": "Male",
       "release": "2010",
       "home": "Demacia",
@@ -526,6 +561,7 @@
 },
   "Gangplank": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt36342e427842cf72/60ee0db41998302436df3459/Gangplank_0.jpg",
+      "picture_position": "68.9712% 0.83682%",
       "sex": "Male",
       "release": "2009",
       "home": "Bilgewater",
@@ -541,6 +577,7 @@
 },
   "Garen": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltda4249a36a7acf13/60ee0dbd66d52e63b8eb6b4f/Garen_0.jpg",
+      "picture_position": "93.5802% 19.6653%",
       "sex": "Male",
       "release": "2010",
       "home": "Demacia",
@@ -556,6 +593,7 @@
 },
   "Gnar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt257549813773c72c/60ee0dcd2f7fa122fd5749ad/Gnar_0.jpg",
+      "picture_position": "85.2675% 67.643%",
       "sex": "Male",
       "release": "2014",
       "home": "Freljord",
@@ -571,6 +609,7 @@
 },
   "Gragas": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6e6453bebfbb6803/60ee0dd8b23973202c8a72ee/Gragas_0.jpg",
+      "picture_position": "64.7737% 1.67364%",
       "sex": "Male",
       "release": "2010",
       "home": "Freljord",
@@ -586,6 +625,7 @@
 },
   "Graves": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltde0587ff6bf8bfbb/60ee0ddcb3f12e2b0efe98c6/Graves_0.jpg",
+      "picture_position": "84.0329% 0%",
       "sex": "Male",
       "release": "2011",
       "home": "Bilgewater",
@@ -601,6 +641,7 @@
 },
   "Gwen": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd2d5de6c83b3349f/60ee0ddefdc6795ca5848472/gwen-splash.jpg",
+      "picture_position": "50% 21.1827%",
       "sex": "Female",
       "release": "2021",
       "home": "Shadow Isles",
@@ -616,6 +657,7 @@
 },
   "Hecarim": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt122e5bde31a6f6fc/64eeb01462b319f69e85df92/Hecarim_0.jpg",
+      "picture_position": "62.5514% 14.6444%",
       "sex": "Male",
       "release": "2012",
       "home": "Shadow Isles",
@@ -631,6 +673,7 @@
 },
   "Heimerdinger": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5003985a072cb830/60ee0de7fae20a5b4faf0ac1/Heimerdinger_0.jpg",
+      "picture_position": "80.0823% 34.5886%",
       "sex": "Male",
       "release": "2009",
       "home": "Piltover",
@@ -646,6 +689,7 @@
 },
   "Illaoi": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd2738fec0d2fc753/60ee0df3da02804b3fb7dbfe/Illaoi_0.jpg",
+      "picture_position": "64.2798% 0%",
       "sex": "Female",
       "release": "2015",
       "home": "Bilgewater",
@@ -656,11 +700,12 @@
       "mana": "Mana",
       "title": "the Kraken Priestess",
       "quote": [
-          "I'm not big on sermons—broken bones teach better lessons.","It is my burden to carry an eye of god. It is my privilege to see the truth.","We cannot comprehend the design. A raindrop cannot comprehend a river valley.","How could I love only one man? They break too easily.","It is terrible to be satisfied. The world needs us to chase dreams.","The waves will drag you down, unless you fight to shore.","Live your life, chase what you desire, what else matters?","They need wisdom. They don't need teeth.","The battle is lost only when you surrender. Fight for your soul.","The battle is lost only when you surrender. Fight for your soul."
+          "I'm not big on sermons—broken bones teach better lessons.","It is my burden to carry an eye of god. It is my privilege to see the truth.","We cannot comprehend the design. A raindrop cannot comprehend a river valley.","How could I love only one man? They break too easily.","It is terrible to be satisfied. The world needs us to chase dreams.","The waves will drag you down, unless you fight to shore.","Live your life, chase what you desire, what else matters?","They need wisdom. They don't need teeth.","The battle is lost only when you surrender. Fight for your soul."
 ]
 },
   "Irelia": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5093ac3980fc83a1/60ee0e2a4b5f906107319576/Classic_Irelia_Splash.jpg",
+      "picture_position": "50.2083% 11.578%",
       "sex": "Female",
       "release": "2010",
       "home": "Ionia",
@@ -676,6 +721,7 @@
 },
   "Ivern": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2b44c03ee6865bf4/60ee0e2fda02804b3fb7dc06/Ivern_0.jpg",
+      "picture_position": "46.8313% 0%",
       "sex": "Male",
       "release": "2016",
       "home": "Ionia",
@@ -691,6 +737,7 @@
 },
   "Janna": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt59b4d88baa20e44b/60ee0e3c191da52267d909ce/Janna_0.jpg",
+      "picture_position": "91.6049% 20.6416%",
       "sex": "Female",
       "release": "2009",
       "home": "Zaun",
@@ -706,6 +753,7 @@
 },
   "Jarvan IV": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt85139dddb9f3900d/60ee0e3fffbf2b3d46189dd2/JarvanIV_0.jpg",
+      "picture_position": "83.2099% 4.88145%",
       "sex": "Male",
       "release": "2011",
       "home": "Demacia",
@@ -721,6 +769,7 @@
 },
   "Jax": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt3236c7fbb14463dd/652d70b37aecdf2f32596356/jax_splash_new.jpg",
+      "picture_position": "68.75% 32.4074%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -736,6 +785,7 @@
 },
   "Jayce": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta9f1899e82bb1965/60ee0e4ac019ad2aaa39a4d2/Jayce_0.jpg",
+      "picture_position": "82.8807% 25.3835%",
       "sex": "Male",
       "release": "2012",
       "home": "Piltover",
@@ -751,6 +801,7 @@
 },
   "Jhin": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta9fe9fafd4648bf7/60ee0e54d8e2343c032d6420/Jhin_0.jpg",
+      "picture_position": "64.1975% 0.27894%",
       "sex": "Male",
       "release": "2016",
       "home": "Ionia",
@@ -766,6 +817,7 @@
 },
   "Jinx": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt107f004fd12ef551/60ee0e5f8258b32d83974da8/Jinx_0.jpg",
+      "picture_position": "74.1564% 11.4365%",
       "sex": "Female",
       "release": "2013",
       "home": "Zaun",
@@ -781,6 +833,7 @@
 },
   "K'Sante": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6da26580f18abc83/634de8f0b3f39b38fccfd283/ksante-splash.jpg",
+      "picture_position": "33.8542% 18.5185%",
       "sex": "Male",
       "release": "2022",
       "home": "Shurima",
@@ -796,6 +849,7 @@
 },
   "Kai'sa": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd8de2cd9f955bffc/60ee0e6b975ffd4ff25ec2ab/kaisa-splash.jpg",
+      "picture_position": "49.4792% 17.6523%",
       "sex": "Female",
       "release": "2018",
       "home": "The Void",
@@ -811,6 +865,7 @@
 },
   "Kalista": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt41c457170dee6402/60ee0e7409c9f73c0e83f82c/Kalista_0.jpg",
+      "picture_position": "76.214% 6.83403%",
       "sex": "Female",
       "release": "2014",
       "home": "Shadow Isles",
@@ -826,6 +881,7 @@
 },
   "Karma": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt59efc8ca56191daa/60ee0e7cb9fc8939338c07fc/Karma_0.jpg",
+      "picture_position": "84.0329% 1.53417%",
       "sex": "Female",
       "release": "2011",
       "home": "Ionia",
@@ -841,6 +897,7 @@
 },
   "Karthus": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltebadd1f72b936e6f/60ee0e80730ed71c59413a91/Karthus_0.jpg",
+      "picture_position": "74.1564% 0%",
       "sex": "Male",
       "release": "2009",
       "home": "Shadow Isles",
@@ -856,6 +913,7 @@
 },
   "Kassadin": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd1b80f3e64d47c14/630029de15a3d2260228c8f9/kassadin-splash_v2.jpg",
+      "picture_position": "65.1042% 9.25926%",
       "sex": "Male",
       "release": "2009",
       "home": "The Void",
@@ -871,6 +929,7 @@
 },
   "Katarina": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt3dafcae87ee7c45a/60ee0e8fa9af29474648beef/Katarina_0.jpg",
+      "picture_position": "67.6543% 49.6513%",
       "sex": "Female",
       "release": "2009",
       "home": "Noxus",
@@ -886,6 +945,7 @@
 },
   "Kayle": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt78cc3c4fc81259c7/60ee0e94496a232835c1ff8b/Kayle_0.jpg",
+      "picture_position": "88.75% 49.2602%",
       "sex": "Female",
       "release": "2009",
       "home": "Demacia",
@@ -901,6 +961,7 @@
 },
   "Kayn": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8c19d1dbd195fa20/60ee0e9783f3965f5b9868f0/kayn-splash-resized.jpg",
+      "picture_position": "50.7812% 51.0582%",
       "sex": "Male",
       "release": "2017",
       "home": "Ionia",
@@ -916,6 +977,7 @@
 },
   "Kennen": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8bc7354458cee91c/60ee0ef653fcad3d3ba6ee24/Kennen_0.jpg",
+      "picture_position": "83.786% 5.16039%",
       "sex": "Male",
       "release": "2010",
       "home": "Ionia",
@@ -931,6 +993,7 @@
 },
   "Kha'Zix": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt619b602796c258c4/60ee0efc60216d1db87a1219/Khazix_0.jpg",
+      "picture_position": "80.9053% 32.2176%",
       "sex": "Male",
       "release": "2012",
       "home": "The Void",
@@ -946,6 +1009,7 @@
 },
   "Kindred": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt63aee598eae2eab3/60ee0f0da466f726aa3fae4a/Kindred_0.jpg",
+      "picture_position": "80.9053% 30.6834%",
       "sex": "Other",
       "release": "2015",
       "home": "Runeterra",
@@ -961,6 +1025,7 @@
 },
   "Kled": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt413da705852a68d3/60ee0f125397524ead389119/Kled_0.jpg",
+      "picture_position": "90.6996% 0.55788%",
       "sex": "Male",
       "release": "2016",
       "home": "Noxus",
@@ -976,6 +1041,7 @@
 },
   "Kog'Maw": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltaee2891bd2416f03/60ee0f1544ff471db19c907f/KogMaw_0.jpg",
+      "picture_position": "73.0041% 67.9219%",
       "sex": "Male",
       "release": "2010",
       "home": "The Void",
@@ -991,6 +1057,7 @@
 },
   "LeBlanc": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt4d91710a07d51938/60ee0f18975ffd4ff25ec2cf/Leblanc_0.jpg",
+      "picture_position": "76.8724% 0.41841%",
       "sex": "Female",
       "release": "2010",
       "home": "Noxus",
@@ -1006,6 +1073,7 @@
 },
   "Lee Sin": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt411308258673b2ff/60ee0f1b83f3965f5b986912/LeeSin_0.jpg",
+      "picture_position": "73.1687% 0%",
       "sex": "Male",
       "release": "2011",
       "home": "Ionia",
@@ -1021,6 +1089,7 @@
 },
   "Leona": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6a3490eb186aa2d8/60ee0f2325b09b4bfcbdf553/Leona_0.jpg",
+      "picture_position": "87.3251% 5.71827%",
       "sex": "Female",
       "release": "2011",
       "home": "Targon",
@@ -1031,11 +1100,12 @@
       "mana": "Mana",
       "title": "the Radiant Dawn",
       "quote": [
-          "The dawn has arrived.","Rally to me.","The sun always rises.","Chosen of the sun.","Stay at the vanguard.","Stay at the vanguard."
+          "The dawn has arrived.","Rally to me.","The sun always rises.","Chosen of the sun.","Stay at the vanguard."
 ]
 },
   "Lillia": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2560838ced20b5d5/60ee0f2925b09b4bfcbdf557/lillia-splash.jpg",
+      "picture_position": "45.1% 21.4915%",
       "sex": "Female",
       "release": "2020",
       "home": "Ionia",
@@ -1051,6 +1121,7 @@
 },
   "Lissandra": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltb746610319970ff5/60ee0f31c300f42b197f1cd3/Lissandra_0.jpg",
+      "picture_position": "76.5432% 0%",
       "sex": "Female",
       "release": "2013",
       "home": "Freljord",
@@ -1066,6 +1137,7 @@
 },
   "Lucian": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd0d3d68533866389/60ee0f38e31ac858d22f9c61/Lucian_0.jpg",
+      "picture_position": "73.7449% 37.2385%",
       "sex": "Male",
       "release": "2013",
       "home": "Runeterra",
@@ -1081,6 +1153,7 @@
 },
   "Lulu": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt71009d4f4fabcf6f/60ee0f3fb898ee4eaeb6e6a7/Lulu_0.jpg",
+      "picture_position": "78.6831% 24.1283%",
       "sex": "Female",
       "release": "2012",
       "home": "Bandle City",
@@ -1096,6 +1169,7 @@
 },
   "Lux": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt9f9df38e50f393d4/60ee0f4c5eda9722617c575e/Lux_0.jpg",
+      "picture_position": "64.5267% 7.11297%",
       "sex": "Female",
       "release": "2010",
       "home": "Demacia",
@@ -1111,6 +1185,7 @@
 },
   "Malphite": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt78c8355477d986b9/60ee0f4f5397524ead389121/Malphite_0.jpg",
+      "picture_position": "76.7901% 56.2064%",
       "sex": "Male",
       "release": "2009",
       "home": "Ixtal",
@@ -1126,6 +1201,7 @@
 },
   "Malzahar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltce9a57d8c8420d0d/60ee0f520311fd25c98c2c09/Malzahar_0.jpg",
+      "picture_position": "70.0412% 0%",
       "sex": "Male",
       "release": "2010",
       "home": "The Void",
@@ -1141,6 +1217,7 @@
 },
   "Maokai": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltff54a47e019fbd69/60ee0f56730ed71c59413ab7/Maokai_0.jpg",
+      "picture_position": "73.8272% 21.7573%",
       "sex": "Male",
       "release": "2011",
       "home": "Shadow Isles",
@@ -1156,6 +1233,7 @@
 },
   "Master Yi": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbb309d26fffe4e63/60ee0f5d92a06d2970b8b550/MasterYi_0.jpg",
+      "picture_position": "94.2387% 13.8075%",
       "sex": "Male",
       "release": "2009",
       "home": "Ionia",
@@ -1171,6 +1249,7 @@
 },
   "Milio": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2f1275d887c9755f/640233a082b5176dad09a78f/milio-splash.jpg",
+      "picture_position": "49.4792% 32.4074%",
       "sex": "Male",
       "release": "2023",
       "home": "Ixtal",
@@ -1186,6 +1265,7 @@
 },
   "Miss Fortune": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc6e788b11a9c8245/60ee0f71a86d0f5a0be449a3/MissFortune_0.jpg",
+      "picture_position": "80.9053% 32.2176%",
       "sex": "Female",
       "release": "2010",
       "home": "Bilgewater",
@@ -1201,6 +1281,7 @@
 },
   "Mordekaiser": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt626d0a9a6c259304/60ee0f7b39cbdb45e8c4803c/Classic_Mordekaiser_Splash.jpg",
+      "picture_position": "45.7831% 7.98561%",
       "sex": "Male",
       "release": "2010",
       "home": "Noxus",
@@ -1216,6 +1297,7 @@
 },
   "Morgana": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltb14610adaae5befa/60ee0f7e43739d6620a57338/Morgana_0.jpg",
+      "picture_position": "88.7962% 49.2602%",
       "sex": "Female",
       "release": "2009",
       "home": "Demacia",
@@ -1231,6 +1313,7 @@
 },
   "Naafiri": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt4b3b126b9263f6e9/64954be5bcdab071d23bdff2/naafiri-splash.jpg",
+      "picture_position": "32.2917% 50.9259%",
       "sex": "Male",
       "release": "2023",
       "home": "Shurima",
@@ -1246,6 +1329,7 @@
 },
   "Nami": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt407f319931b9b1ec/60ee0fc7855e1f64f143efe4/Nami_0.jpg",
+      "picture_position": "91.2757% 15.3417%",
       "sex": "Female",
       "release": "2012",
       "home": "Runeterra",
@@ -1261,6 +1345,7 @@
 },
   "Nasus": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc33731e926616bc3/60ee0fcea86d0f5a0be449af/Nasus_0.jpg",
+      "picture_position": "73.1687% 5.5788%",
       "sex": "Male",
       "release": "2009",
       "home": "Shurima",
@@ -1276,6 +1361,7 @@
 },
   "Nautilus": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt758bc6307b613946/60ee0fd285b04228439613d5/Nautilus_0.jpg",
+      "picture_position": "88.4774% 0.55788%",
       "sex": "Male",
       "release": "2012",
       "home": "Bilgewater",
@@ -1291,6 +1377,7 @@
 },
   "Neeko": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltc69856688a968e30/60ee0fd65eda9722617c5770/neeko-splash.jpg",
+      "picture_position": "43.8542% 2.11827%",
       "sex": "Female",
       "release": "2018",
       "home": "Ixtal",
@@ -1301,11 +1388,12 @@
       "mana": "Mana",
       "title": "the Curious Chameleon",
       "quote": [
-          "(champion) is best decision!","This place tastes like many emotions. Excitement, anger, joy and... salty? Is salty a feeling?","Sharing memories, colors, feelings is magic! Magic connects people.","Survival means blending in.","How can anybody miss home? Home is all around.","Do not be bound to a single body. There are so many more.","Beauty shines from inside, where the heart dances.","Every place is beautiful. Every place is danger. Is danger... beautiful?","Every place is beautiful. Every place is danger. Is danger... beautiful?"
+          "(champion) is best decision!","This place tastes like many emotions. Excitement, anger, joy and... salty? Is salty a feeling?","Sharing memories, colors, feelings is magic! Magic connects people.","Survival means blending in.","How can anybody miss home? Home is all around.","Do not be bound to a single body. There are so many more.","Beauty shines from inside, where the heart dances.","Every place is beautiful. Every place is danger. Is danger... beautiful?"
 ]
 },
   "Nidalee": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta65bbcd489ac4d4e/60ee0fde47e9392c538205a5/Nidalee_0.jpg",
+      "picture_position": "83.8683% 1.53417%",
       "sex": "Female",
       "release": "2009",
       "home": "Ixtal",
@@ -1321,6 +1409,7 @@
 },
   "Nilah": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blte7e5b6d5c50cf732/62b1f70605f1d157f3a8cc78/nilah-splash.jpg",
+      "picture_position": "62.5% 27.7778%",
       "sex": "Female",
       "release": "2022",
       "home": "Bilgewater",
@@ -1336,6 +1425,7 @@
 },
   "Nocturne": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd965a4717b06eef3/60ee0fe2b1e20a5e8ab58595/Nocturne_0.jpg",
+      "picture_position": "71.6049% 29.0098%",
       "sex": "Male",
       "release": "2011",
       "home": "Runeterra",
@@ -1351,11 +1441,12 @@
 },
   "Nunu & Willump": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt988c23cebcb14f78/60ee100866d52e63b8eb6ba7/nunu_new_splash.jpg",
+      "picture_position": "68.9583% 63.3913%",
       "sex": "Male",
       "release": "2009",
-      "home": "Freljord",
+      "home": "View Region",
       "specie": "Human, Yeti",
-      "type": "Tank",
+      "type": "Fighter",
       "position": "Jungle, Middle",
       "range": "Melee",
       "mana": "Mana",
@@ -1366,6 +1457,7 @@
 },
   "Olaf": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt121dcc1ff9f83f58/60ee107ba466f726aa3fae9c/Olaf_0.jpg",
+      "picture_position": "67.0782% 9.34449%",
       "sex": "Male",
       "release": "2010",
       "home": "Freljord",
@@ -1381,6 +1473,7 @@
 },
   "Orianna": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8bde2f92f5419aa3/60ee1080cfb8f23a9413d227/Orianna_0.jpg",
+      "picture_position": "88.8889% 0%",
       "sex": "Female",
       "release": "2011",
       "home": "Piltover",
@@ -1396,6 +1489,7 @@
 },
   "Ornn": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltdf55bc487bced1a5/60ee1087191da52267d90a30/ornn-splash.jpg",
+      "picture_position": "49.4271% 30.3704%",
       "sex": "Male",
       "release": "2017",
       "home": "Freljord",
@@ -1411,6 +1505,7 @@
 },
   "Pantheon": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8c02ab1e736da4a3/60ee108e8258b32d83974df0/pantheon_splash.jpg",
+      "picture_position": "51.4815% 36.1068%",
       "sex": "Male",
       "release": "2010",
       "home": "Targon",
@@ -1426,6 +1521,7 @@
 },
   "Poppy": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt67bf8a3bc7bca663/60ee111142236548511f8bd6/Poppy_0.jpg",
+      "picture_position": "71.8519% 0.41841%",
       "sex": "Female",
       "release": "2010",
       "home": "Demacia",
@@ -1441,6 +1537,7 @@
 },
   "Pyke": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt359f81b2f47d8434/60ee11234be40c60fcda6d20/champion-pyke-splash.jpg",
+      "picture_position": "49.4271% 22.2222%",
       "sex": "Male",
       "release": "2018",
       "home": "Bilgewater",
@@ -1456,6 +1553,7 @@
 },
   "Qiyana": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt80f762fa9307cbce/60ee11277a84715a12c2a2f1/qiyana_splash.jpg",
+      "picture_position": "50.6% 23.4668%",
       "sex": "Female",
       "release": "2019",
       "home": "Ixtal",
@@ -1471,6 +1569,7 @@
 },
   "Quinn": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5a13ce23b83464b4/60ee11324b5f906107319612/Quinn_0.jpg",
+      "picture_position": "65.8436% 0.83682%",
       "sex": "Female",
       "release": "2013",
       "home": "Demacia",
@@ -1486,6 +1585,7 @@
 },
   "Rakan": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf675f7e15a5650c9/60fb517a09d2d24585266cf2/rakan-splash.jpg",
+      "picture_position": "37.5% 10%",
       "sex": "Male",
       "release": "2017",
       "home": "Ionia",
@@ -1501,6 +1601,7 @@
 },
   "Rammus": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2f2f946c24f77ce1/60ee1142ffbf2b3d46189e30/Rammus_0.jpg",
+      "picture_position": "64.1152% 29.1492%",
       "sex": "Male",
       "release": "2009",
       "home": "Shurima",
@@ -1516,6 +1617,7 @@
 },
   "Rek'Sai": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta50d60e9cdac9abf/60ee114866d52e63b8eb6bdb/RekSai_0.jpg",
+      "picture_position": "59.9177% 26.9177%",
       "sex": "Female",
       "release": "2014",
       "home": "The Void",
@@ -1531,6 +1633,7 @@
 },
   "Rell": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt1e406701ff4575e0/60ee114c44ff471db19c90c5/rell-splash.jpg",
+      "picture_position": "48.4627% 12.7168%",
       "sex": "Female",
       "release": "2020",
       "home": "Noxus",
@@ -1546,6 +1649,7 @@
 },
   "Renata Glasc": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbd6dd8aaf7e19b67/61f873ffddbb853fe258b674/renata-splash.jpg",
+      "picture_position": "52.0833% 13.8889%",
       "sex": "Female",
       "release": "2022",
       "home": "Zaun",
@@ -1561,6 +1665,7 @@
 },
   "Renekton": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt9cc0bcde424bd35d/60ee114fc019ad2aaa39a54a/Renekton_0.jpg",
+      "picture_position": "65.9259% 0.83682%",
       "sex": "Male",
       "release": "2011",
       "home": "Shurima",
@@ -1576,6 +1681,7 @@
 },
   "Rengar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt4c3e514b7691fbf8/60ee115b418ee7283c2e76d8/Rengar_0.jpg",
+      "picture_position": "74.0741% 19.6653%",
       "sex": "Male",
       "release": "2012",
       "home": "Ixtal",
@@ -1591,6 +1697,7 @@
 },
   "Riven": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2a5d8ceded307ef1/60ee117385b0422843961415/Riven_0.jpg",
+      "picture_position": "86.1728% 0.27894%",
       "sex": "Female",
       "release": "2011",
       "home": "Noxus",
@@ -1606,6 +1713,7 @@
 },
   "Rumble": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8c4561912c5cb524/60ee117eb1e20a5e8ab585cb/Rumble_0.jpg",
+      "picture_position": "79.6708% 0.83682%",
       "sex": "Male",
       "release": "2011",
       "home": "Bandle City",
@@ -1621,6 +1729,7 @@
 },
   "Ryze": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt0f94a1afd3aca898/60ee1191d42632662baee33b/Ryze_0.jpg",
+      "picture_position": "84.3621% 35.1464%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -1636,6 +1745,7 @@
 },
   "Samira": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltde2d1b2dbdc0b2cf/60ee11958258b32d83974e10/samira-splash.jpg",
+      "picture_position": "59.0625% 9.27273%",
       "sex": "Female",
       "release": "2020",
       "home": "Noxus",
@@ -1651,6 +1761,7 @@
 },
   "Sejuani": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd786c978e7beea7b/60ee119e9f5cda1efaa7f795/Sejuani_0.jpg",
+      "picture_position": "60.823% 0.41841%",
       "sex": "Female",
       "release": "2012",
       "home": "Freljord",
@@ -1666,6 +1777,7 @@
 },
   "Senna": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt911548d6d3a5750a/60ee11a09a3f4a5c9e68b2ae/senna-splash.jpg",
+      "picture_position": "58.2105% 11.3292%",
       "sex": "Female",
       "release": "2019",
       "home": "Runeterra",
@@ -1681,6 +1793,7 @@
 },
   "Seraphine": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta924fdd38453d22b/60ee11a6b23973202c8a736a/seraphine-splash.jpg",
+      "picture_position": "42.2917% 18.7037%",
       "sex": "Female",
       "release": "2020",
       "home": "Piltover",
@@ -1696,6 +1809,7 @@
 },
   "Sett": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta4f78a29b9ba4c0e/60ee11ab2bfb1144ace9a019/sett-splash.jpg",
+      "picture_position": "48.7895% 8.97436%",
       "sex": "Male",
       "release": "2020",
       "home": "Ionia",
@@ -1711,6 +1825,7 @@
 },
   "Shaco": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6f5beb33c10f0fc9/60ee11b2a718b62441b30a21/Shaco_0.jpg",
+      "picture_position": "82.0576% 1.11576%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -1726,6 +1841,7 @@
 },
   "Shen": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbf54c151f1d2730d/60ee11dc496a232835c1ffef/Shen_0.jpg",
+      "picture_position": "85.1029% 0%",
       "sex": "Male",
       "release": "2010",
       "home": "Ionia",
@@ -1741,6 +1857,7 @@
 },
   "Shyvana": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5b30a904d3564cd1/60ee120771e7852988a7bbe7/Shyvana_0.jpg",
+      "picture_position": "78.2716% 0%",
       "sex": "Female",
       "release": "2011",
       "home": "Demacia",
@@ -1756,6 +1873,7 @@
 },
   "Singed": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt84220fdc67ead8d8/60ee120e2202166087e382c8/Singed_0.jpg",
+      "picture_position": "77.7778% 0.55788%",
       "sex": "Male",
       "release": "2009",
       "home": "Zaun",
@@ -1771,6 +1889,7 @@
 },
   "Sion": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltfadf063f94aef735/60ee1217da02804b3fb7dcc2/Sion_0.jpg",
+      "picture_position": "77.6955% 0.55788%",
       "sex": "Male",
       "release": "2009",
       "home": "Noxus",
@@ -1786,6 +1905,7 @@
 },
   "Sivir": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt37dc281ef11dea6b/64eeafb7f2495f124d460e6a/Sivir_0.jpg",
+      "picture_position": "60.9053% 14.6444%",
       "sex": "Female",
       "release": "2009",
       "home": "Shurima",
@@ -1801,6 +1921,7 @@
 },
   "Skarner": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7f291e5a370b94f4/60ee1225feddb63580fcb6a7/Skarner_0.jpg",
+      "picture_position": "82.6337% 38.4937%",
       "sex": "Male",
       "release": "2011",
       "home": "Shurima",
@@ -1816,6 +1937,7 @@
 },
   "Sona": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbf2307aee6365bcf/60ee1228b4019f23086a509c/Sona_0.jpg",
+      "picture_position": "76.6255% 0.13947%",
       "sex": "Female",
       "release": "2010",
       "home": "Demacia",
@@ -1831,6 +1953,7 @@
 },
   "Soraka": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7fcc6ddb2f9f13ba/60ee122b66d52e63b8eb6be7/Soraka_0.jpg",
+      "picture_position": "56.6255% 0%",
       "sex": "Female",
       "release": "2009",
       "home": "Targon",
@@ -1846,6 +1969,7 @@
 },
   "Swain": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7a9366b61b34f8a7/60ee129d66d52e63b8eb6bf1/swain-splash.jpg",
+      "picture_position": "75.9375% 0%",
       "sex": "Male",
       "release": "2010",
       "home": "Noxus",
@@ -1861,6 +1985,7 @@
 },
   "Sylas": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt37610e0af19b202c/60fb5338b409525ac94e5b0a/sylas-splash.jpg",
+      "picture_position": "50.5208% 10.1681%",
       "sex": "Male",
       "release": "2019",
       "home": "Demacia",
@@ -1876,6 +2001,7 @@
 },
   "Syndra": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt025e70eaad333d81/60ee12a65eda9722617c57b2/Syndra_0.jpg",
+      "picture_position": "84.1152% 9.62343%",
       "sex": "Female",
       "release": "2012",
       "home": "Ionia",
@@ -1891,6 +2017,7 @@
 },
   "Tahm Kench": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltcb65957e0e85d55b/60ee12ac4253da270126dcde/TahmKench_0.jpg",
+      "picture_position": "84.3621% 47.1409%",
       "sex": "Male",
       "release": "2015",
       "home": "Runeterra",
@@ -1906,6 +2033,7 @@
 },
   "Taliyah": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbfab44d1f475186f/60ee12b284a5742702dbc0ce/Taliyah_0.jpg",
+      "picture_position": "87.4897% 0%",
       "sex": "Female",
       "release": "2016",
       "home": "Shurima",
@@ -1921,6 +2049,7 @@
 },
   "Talon": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt7df9d71e87d2ab9a/60ee12bd730ed71c59413b09/Talon_0.jpg",
+      "picture_position": "73.4979% 16.8759%",
       "sex": "Male",
       "release": "2011",
       "home": "Noxus",
@@ -1936,6 +2065,7 @@
 },
   "Taric": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd6031c92be7eafe7/60ee12d872ec164ac4beddd4/Taric_0.jpg",
+      "picture_position": "87.3251% 5.71827%",
       "sex": "Male",
       "release": "2009",
       "home": "Targon",
@@ -1951,6 +2081,7 @@
 },
   "Teemo": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8ed0ddc56697f275/60ee12deaa9be3239e98d9a2/Teemo_0.jpg",
+      "picture_position": "78.2716% 12.9707%",
       "sex": "Male",
       "release": "2009",
       "home": "Bandle City",
@@ -1966,6 +2097,7 @@
 },
   "Thresh": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt9fd7de40b070c6d4/60ee12e97a84715a12c2a301/Thresh_0.jpg",
+      "picture_position": "69.7119% 0.41841%",
       "sex": "Male",
       "release": "2013",
       "home": "Shadow Isles",
@@ -1981,6 +2113,7 @@
 },
   "Tristana": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blte1289411582cdefa/60ee13023a7d261c53fb5275/Tristana_0.jpg",
+      "picture_position": "75.8848% 3.62622%",
       "sex": "Female",
       "release": "2009",
       "home": "Bandle City",
@@ -1996,6 +2129,7 @@
 },
   "Trundle": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt0ae436a8ff716d99/60ee130b496a232835c1fffb/Trundle_0.jpg",
+      "picture_position": "64.856% 6.69456%",
       "sex": "Male",
       "release": "2010",
       "home": "Freljord",
@@ -2011,6 +2145,7 @@
 },
   "Tryndamere": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltd450a0f61fb2974c/60ee130f496a232835c1ffff/Tryndamere_0.jpg",
+      "picture_position": "77.1193% 0.41841%",
       "sex": "Male",
       "release": "2009",
       "home": "Freljord",
@@ -2026,6 +2161,7 @@
 },
   "Twisted Fate": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt648f38bcfb9410c1/60ee13167897c2473be7c2c9/TwistedFate_0.jpg",
+      "picture_position": "82.7984% 5.16039%",
       "sex": "Male",
       "release": "2009",
       "home": "Bilgewater",
@@ -2041,6 +2177,7 @@
 },
   "Twitch": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt6d95f66073acbe03/60ee1319730ed71c59413b0d/Twitch_0.jpg",
+      "picture_position": "62.5514% 27.4756%",
       "sex": "Male",
       "release": "2009",
       "home": "Zaun",
@@ -2056,6 +2193,7 @@
 },
   "Udyr": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt06831c27e46f9a6c/62f28c9b7ef11d3a32a96e27/Udyr-Final_opt.jpg",
+      "picture_position": "53.1915% 13.7994%",
       "sex": "Male",
       "release": "2009",
       "home": "Freljord",
@@ -2071,6 +2209,7 @@
 },
   "Urgot": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltf0cbbef2f074c8cb/60ee13263a7d261c53fb5279/urgot-splash-updated.jpg",
+      "picture_position": "56.4609% 5.5788%",
       "sex": "Male",
       "release": "2010",
       "home": "Zaun",
@@ -2086,6 +2225,7 @@
 },
   "Varus": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta3a77808520e8966/60ee132c8258b32d83974e22/varus-splash.jpg",
+      "picture_position": "53.8542% 0%",
       "sex": "Male",
       "release": "2012",
       "home": "Ionia",
@@ -2101,6 +2241,7 @@
 },
   "Vayne": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltb55f82eda095f4e8/60ee13795397524ead38918b/Vayne_0.jpg",
+      "picture_position": "92.3457% 10.5997%",
       "sex": "Female",
       "release": "2011",
       "home": "Demacia",
@@ -2116,6 +2257,7 @@
 },
   "Veigar": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt2660186c36e21d58/60ee137d09c9f73c0e83f8a0/Veigar_0.jpg",
+      "picture_position": "71.1934% 9.90237%",
       "sex": "Male",
       "release": "2009",
       "home": "Bandle City",
@@ -2131,6 +2273,7 @@
 },
   "Vel'Koz": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt3c72620cdc5d8b98/60ee13831d961d58d812dc66/Velkoz_0.jpg",
+      "picture_position": "62.4691% 31.6597%",
       "sex": "Male",
       "release": "2014",
       "home": "The Void",
@@ -2146,6 +2289,7 @@
 },
   "Vex": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8f02a4d9f9fa875d/6140106a38fe802535067228/vex-splash.jpg",
+      "picture_position": "65.1042% 14.0977%",
       "sex": "Female",
       "release": "2021",
       "home": "Shadow Isles",
@@ -2161,6 +2305,7 @@
 },
   "Vi": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt386aa1a09687ad91/60ee138c43739d6620a57392/Vi_0.jpg",
+      "picture_position": "76.214% 18.8285%",
       "sex": "Female",
       "release": "2012",
       "home": "Piltover",
@@ -2176,6 +2321,7 @@
 },
   "Viego": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt4a1eca6952a9cb94/60ee139130f3493a9f2fa48a/viego-splash.jpg",
+      "picture_position": "74.6842% 18.4561%",
       "sex": "Male",
       "release": "2021",
       "home": "Shadow Isles",
@@ -2191,6 +2337,7 @@
 },
   "Viktor": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt68b21a4007b1ffdf/60ee13932202166087e382d2/Viktor_0.jpg",
+      "picture_position": "74.7325% 3.20781%",
       "sex": "Male",
       "release": "2011",
       "home": "Zaun",
@@ -2206,6 +2353,7 @@
 },
   "Vladimir": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltffbd1a073e248498/60ee1398a9c1f936b973285b/Vladimir_0.jpg",
+      "picture_position": "84.1975% 2.92887%",
       "sex": "Male",
       "release": "2010",
       "home": "Noxus",
@@ -2221,6 +2369,7 @@
 },
   "Volibear": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltbf16308b8376a69b/60ee13a60311fd25c98c2c4d/volibear-splash.jpg",
+      "picture_position": "57.9084% 4.42087%",
       "sex": "Male",
       "release": "2011",
       "home": "Freljord",
@@ -2236,6 +2385,7 @@
 },
   "Warwick": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltfdc7d086a94d05ce/60ee13af43739d6620a57396/warwick-splash-updated.jpg",
+      "picture_position": "69.1406% 60.7918%",
       "sex": "Male",
       "release": "2009",
       "home": "Zaun",
@@ -2251,6 +2401,7 @@
 },
   "Wukong": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltac6dc4d0af9fd20e/60ee0f77c019ad2aaa39a506/MonkeyKing_0.jpg",
+      "picture_position": "70.1235% 18.41%",
       "sex": "Male",
       "release": "2011",
       "home": "Ionia",
@@ -2258,14 +2409,15 @@
       "type": "Fighter",
       "position": "Top, Jungle",
       "range": "Melee",
-      "mana": "Male",
-      "title": "Mana",
+      "mana": "Mana",
+      "title": "the Monkey King",
       "quote": [
           "I will be the best.","Every mistake is a lesson.","Never settle for second.","Adapt to all situations.","My journey's only beginning.","My place is at the top.","Who questions my ability?"
 ]
 },
   "Xayah": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt64407be80c57da40/60fb534c94c59f4871e8cb03/xayah-splash.jpg",
+      "picture_position": "66.5115% 23.7037%",
       "sex": "Female",
       "release": "2017",
       "home": "Ionia",
@@ -2281,6 +2433,7 @@
 },
   "Xerath": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt1bc67812e9b9e156/60ee13c77b4a95436e1ae0a8/Xerath_0.jpg",
+      "picture_position": "57.6955% 3.20781%",
       "sex": "Male",
       "release": "2011",
       "home": "Shurima",
@@ -2296,6 +2449,7 @@
 },
   "Xin Zhao": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt21fb20a31ce61a81/60ee13c900859160920d444a/xinzhao-splash-updated.jpg",
+      "picture_position": "53.3333% 27.2727%",
       "sex": "Male",
       "release": "2010",
       "home": "Demacia",
@@ -2311,6 +2465,7 @@
 },
   "Yasuo": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt41c476486b063ef8/60ee13df31f9ee2ab08a4dfe/Yasuo_0.jpg",
+      "picture_position": "87.9835% 31.3808%",
       "sex": "Male",
       "release": "2013",
       "home": "Ionia",
@@ -2326,6 +2481,7 @@
 },
   "Yone": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt3cefcd6544df9e5d/60ee13e4810a0e49eabfd0be/yone-splash.jpg",
+      "picture_position": "59.0625% 9.27273%",
       "sex": "Male",
       "release": "2020",
       "home": "Ionia",
@@ -2341,6 +2497,7 @@
 },
   "Yorick": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt54ec063fda332295/60ee13e91d961d58d812dc6a/Yorick_0.jpg",
+      "picture_position": "79.6708% 1.53417%",
       "sex": "Male",
       "release": "2011",
       "home": "Shadow Isles",
@@ -2356,6 +2513,7 @@
 },
   "Yuumi": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt95cdb2d55e0d22f4/60ee13f0ba1c655fbc2eef7f/Yuumi_0.jpg",
+      "picture_position": "44.9479% 6.22924%",
       "sex": "Female",
       "release": "2019",
       "home": "Bandle City",
@@ -2371,6 +2529,7 @@
 },
   "Zac": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt88c6a720fb19e73e/60ee13fb85b0422843961421/Zac_0.jpg",
+      "picture_position": "76.0494% 60.251%",
       "sex": "Male",
       "release": "2013",
       "home": "Zaun",
@@ -2386,6 +2545,7 @@
 },
   "Zed": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt78255e660a53aa1d/60ee143a71e7852988a7bbf7/Zed_0.jpg",
+      "picture_position": "76.1317% 3.06834%",
       "sex": "Male",
       "release": "2012",
       "home": "Ionia",
@@ -2401,6 +2561,7 @@
 },
   "Zeri": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8153414671d1773e/61d8f87251bc1739fe799310/zeri-splashv2.jpg",
+      "picture_position": "57.2917% 27.7778%",
       "sex": "Female",
       "release": "2022",
       "home": "Zaun",
@@ -2416,6 +2577,7 @@
 },
   "Ziggs": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt11f749e9465df337/60ee1441b3f12e2b0efe994a/Ziggs_0.jpg",
+      "picture_position": "83.786% 27.7545%",
       "sex": "Male",
       "release": "2012",
       "home": "Zaun",
@@ -2431,6 +2593,7 @@
 },
   "Zilean": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt5b40ae5b314cde59/60ee1443c941f329772e4e2f/Zilean_0.jpg",
+      "picture_position": "61.3992% 0.97629%",
       "sex": "Male",
       "release": "2009",
       "home": "Runeterra",
@@ -2446,6 +2609,7 @@
 },
   "Zoe": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blta5516014683545a0/60ee1444a471a34acb2c2016/zoe-splash.jpg",
+      "picture_position": "54.9479% 23.1718%",
       "sex": "Female",
       "release": "2017",
       "home": "Targon",
@@ -2461,6 +2625,7 @@
 },
   "Zyra": {
       "picture": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt8f56250bca8202a9/60ee1450cdb93c284ee3e9f0/Zyra_0.jpg",
+      "picture_position": "88.0658% 5.29986%",
       "sex": "Female",
       "release": "2012",
       "home": "Ixtal",

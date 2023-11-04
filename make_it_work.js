@@ -49,6 +49,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".restart").on( "click", function(e){
+        location.reload()
      }) 
 })
 
@@ -258,7 +259,9 @@ function giveSolution(og_table){
         para.appendChild(text)
         name.appendChild(para)
     }
-        $(".icon").attr("src",og_table["picture"]);
+        $(".icon").attr("src",og_table["picture"])
+        $(".icon").attr("object-position", og_table["picture_position"])
+        
 }
 
 function giveTitle(){

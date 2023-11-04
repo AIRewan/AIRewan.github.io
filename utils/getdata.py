@@ -6,7 +6,7 @@ from collections import defaultdict
 mainUrl= "https://universe.leagueoflegends.com/en_AU/champion/"
 secUrl= "https://leagueoflegends.fandom.com/wiki/"
 
-champF = open("utils\\LolChamps.txt", "r")
+champF = open("AIRewan.github.io\\utils\\LolChamps.txt", "r")
 lines = champF.readlines()
 champF.close()
 
@@ -23,29 +23,32 @@ for line in lines:
     name= l[0]
     print(name)
 
-    if " " in name:
+    if " " in name:                     #league's own site
         n= name.replace(" ","")
     elif "." in name:
         n= name.replace('.', '')
+    elif ". " in name:
+        n= name.replace('. ', '')
     elif "'" in name:
         n=name.replace("'",'')
     elif '&' in name:
-        n=name.replace(" & ",';')
-        n= n.split(';')
+        n= name.split(" & ")
         n= n[0]
+    elif 'Wukong' in name:
+        n=name.replace("Wukong",'MonkeyKing')
     else:
         n= name
 
     url= mainUrl+n+'/'
 
-    if " " in name:
+    if " " in name:                 #wiki
         k= name.replace(" ", '_')
     elif "'" in name:
         k= name.replace("'", '%27')
+    elif ". " in name:
+        n= name.replace('. ', '')
     elif '&' in name:
-        k=name.replace(" & ",';')
-        k= n.split(';')
-        k= n[0]
+        k=name.replace(" & ",'_%26_')
     else:
         k= name
         
@@ -58,9 +61,15 @@ for line in lines:
 
     pic = html.split('data-am-url=')
     pic = pic[1].split(' style="background-image:')
+    pic_poz= pic[1].split("; background-size:")
+    pic_poz= pic_poz[0].split("background-position: ")
+    pic_poz= pic_poz[1].split(';')
+    picture_position = pic_poz[0]
     pic = pic[0].split('" ') 
     pic = pic[0]
     picture= pic[1:]
+
+    
     
     role=html.split('Role</span></h5><h6>')
     role = role[1].split('</h6>')
@@ -118,12 +127,12 @@ for line in lines:
     ranged = ran[-1:]
     ranged = ranged[0]
 
-    champDict[name].append([picture, sex, release, region, species, role, position, ranged, mana, title])
+    champDict[name].append([picture, sex, release, region, species, role, position, ranged, mana, title, picture_position])
     print(champDict[name])
     print()
 
-    file = open("utils\\data.txt", "a")
-    file.writelines(name+"*"+champDict[name][0][0]+";"+champDict[name][0][1]+";"+champDict[name][0][2]+";"+champDict[name][0][3]+";"+champDict[name][0][4]+";"+champDict[name][0][5]+";"+champDict[name][0][6]+";"+champDict[name][0][7]+";"+champDict[name][0][8]+";"+champDict[name][0][9]+"\n")
+    file = open("AIRewan.github.io\\utils\\data.txt", "a")
+    file.writelines(name+"*"+champDict[name][0][0]+';'+champDict[name][0][10]+";"+champDict[name][0][1]+";"+champDict[name][0][2]+";"+champDict[name][0][3]+";"+champDict[name][0][4]+";"+champDict[name][0][5]+";"+champDict[name][0][6]+";"+champDict[name][0][7]+";"+champDict[name][0][8]+";"+champDict[name][0][9]+"\n")
     file.close()
 
 

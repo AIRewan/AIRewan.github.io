@@ -1,9 +1,9 @@
-champF = open("utils\\data.txt", "r")
+champF = open("AIRewan.github.io\\utils\\data.txt", "r")
 champ0 = champF.readlines()
 champs = sorted(champ0)
 champF.close()
 
-quoteS = open("utils\\quotes.txt", "r")
+quoteS = open("AIRewan.github.io\\utils\\quotes.txt", "r")
 quote0= quoteS.readlines()
 quotes= sorted(quote0)
 quoteS.close()
@@ -16,25 +16,25 @@ for q in quotes:
     values[-1]=values[-1].strip()[0:-1]
     QD[key]=values
 
-file = open("source\\data.json", "a")
+file = open("AIRewan.github.io\\source\\data.json", "a")
 file.writelines("{\n")
 file.close()
-                  #         0       1     2      3     4     5        6            7     8            9
-for c in champs:  #Lux*  picture;Female;2010;Demacia;Human;Mage;Middle, Support;Ranged;Mana;the Lady of Luminosity
+                  #         0           1           2     3     4       5    6        7            8      9             10
+for c in champs:  #Lux*  picture;picture_position;Female;2010;Demacia;Human;Mage;Middle, Support;Ranged;Mana;the Lady of Luminosity
 
     champion = c.split('*')[0] 
-    data = c.split('*')[1]
-
+    data = c.split('*')[1] 
     picture = data.split(';')[0]
-    sex = data.split(';')[1]
-    release = data.split(';')[2]
-    home = data.split(';')[3]
-    specie = data.split(';')[4]
-    type = data.split(';')[5]
-    position = data.split(';')[6]
-    range = data.split(';')[7]
-    mana = data.split(';')[8]
-    title = data.split(';')[9].strip()
+    picture_position= data.split(';')[1]
+    sex = data.split(';')[2]
+    release = data.split(';')[3]
+    home = data.split(';')[4]
+    specie = data.split(';')[5]
+    type = data.split(';')[6]
+    position = data.split(';')[7]
+    range = data.split(';')[8]
+    mana = data.split(';')[9]
+    title = data.split(';')[10].strip()
     quote = ""
     for q in QD[champion]:
         if "\\'" in q:
@@ -43,9 +43,10 @@ for c in champs:  #Lux*  picture;Female;2010;Demacia;Human;Mage;Middle, Support;
         if QD[champion][-1]!=q:
             quote+=","
 
-    file = open("source\\data.json", "a")
+    file = open("AIRewan.github.io\\source\\data.json", "a")
     file.writelines(('  "{ch}": {{\n').format(ch=champion))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture=}'.split('=')[0], n=picture))
+    file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture_position=}'.split('=')[0], n=picture_position))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{sex=}'.split('=')[0], n=sex))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{release=}'.split('=')[0], n=release))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{home=}'.split('=')[0], n=home))
