@@ -8,10 +8,11 @@ fetch("source\\data.json")
   .then(response => response.json())
   .then(s => {
     data=s
-    try {
-        keys= Object.keys(s)
+    if (typeof data !== 'undefined' && data !== null){
+        console.log()
+        keys= Object.keys(data)
     }
-    catch{
+    else {
         $(".restart").trigger("click")
     }
   })
