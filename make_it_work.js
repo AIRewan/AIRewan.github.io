@@ -4,25 +4,16 @@ const picked_Q=[]
 let champ
 let miss_counter = 0
 
-fetch("source\\data.json")
-  .then(response => response.json())
-  .then(s => {
-    data=s
-    if (typeof data !== 'undefined' && data !== null){
-        console.log(typeof data)
+$.getJSON("source\\data.json", function(result){
+        data=result
         keys= Object.keys(data)
-    }
-    else {
-        $(".restart").trigger("click")
-    }
-  })
-  .catch(error => (console.log(error)))
+    })
 
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 $(window).on('load',function(){                            // on load asks a quote
     const pick= randomInt(0,keys.length-1)
     champ = keys[pick]
-    console.log(picked_Q)
     giveQuote(champ)
     $(".icon").css("background-image",'url("source/question.jpg")');
 })
@@ -237,7 +228,6 @@ function fillTable(pc){
     }
     else{
         miss_counter++;
-        console.log(miss_counter)
         return "miss";
     }
 }
@@ -261,7 +251,7 @@ function giveSolution(og_table){
         name.appendChild(para)
     }
         $(".icon").css("background-image",'url("'+og_table["picture"]+'")')
-        $(".icon").attr("object-position", og_table["picture_position"])
+        $(".icon").css("background-position", og_table["picture_position"])
         
 }
 
