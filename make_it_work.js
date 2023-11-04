@@ -71,7 +71,7 @@ function nextRound(match){
         
         giveQuote(champ)
     }
-    else if(match=="miss" && miss_counter>=6){
+    else if(match=="miss" && miss_counter==6){
         
         giveTitle()
     }
@@ -227,6 +227,7 @@ function fillTable(pc){
                 }
         } 
     }
+    
     if(pc==champ){
         return "match"
     }
@@ -256,8 +257,7 @@ function giveSolution(og_table){
     }
         $(".icon").css("background-image",'url("'+og_table["picture"]+'")')
         $(".icon").css("background-position", og_table["picture_position"])
-        $(".icon").css("border", "2px solid green")
-           
+        $(".icon").css("border", "2px solid green")     
 }
 
 function giveTitle(){

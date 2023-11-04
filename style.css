@@ -175,3 +175,5 @@ input[type="submit"]{
 input[type="submit"]:hover{
     border: 2px solid #a8894b;
 }
+
+.ui-helper-hidden-accessible { display:none; }
