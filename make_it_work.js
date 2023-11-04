@@ -9,7 +9,7 @@ fetch("source\\data.json")
   .then(s => {
     data=s
     if (typeof data !== 'undefined' && data !== null){
-        console.log()
+        console.log(typeof data)
         keys= Object.keys(data)
     }
     else {
@@ -18,16 +18,16 @@ fetch("source\\data.json")
   })
   .catch(error => (console.log(error)))
 
-window.addEventListener("load", (event) => {                        //onload asks for one quote
-    const pick= randomInt(0,Object.keys(data).length-1)
+
+$(window).on('load',function(){                            // on load asks a quote
+    const pick= randomInt(0,keys.length-1)
     champ = keys[pick]
-    console.log('elso')
     console.log(picked_Q)
     giveQuote(champ)
-    $(".icon").attr("src","source/question.jpg");
+    $(".icon").css("background-image",'url("source\\question.jpg")');
 })
 
-$(document).ready(function(){
+$(window).on('load',function(){
     $("input").on("keydown",(function(event){
         $( "input.guess" ).autocomplete({
             source: keys
@@ -39,7 +39,7 @@ $(document).ready(function(){
     }))
 })    
 
-$(document).ready(function(){
+$(window).on('load',function(){
     $(".sub").on( "click", function(e){
         e.preventDefault()
         player_guess = $("input.guess").val()
@@ -260,7 +260,7 @@ function giveSolution(og_table){
         para.appendChild(text)
         name.appendChild(para)
     }
-        $(".icon").attr("src",og_table["picture"])
+        $(".icon").css("background-image",'url("'+og_table["picture"]+'")')
         $(".icon").attr("object-position", og_table["picture_position"])
         
 }
