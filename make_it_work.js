@@ -23,6 +23,7 @@ window.addEventListener("load", (event) => {                        //onload ask
     console.log('elso')
     console.log(picked_Q)
     giveQuote(champ)
+    $(".icon").attr("src","source/question.jpg");
 })
 
 $(document).ready(function(){
@@ -257,6 +258,7 @@ function giveSolution(og_table){
         para.appendChild(text)
         name.appendChild(para)
     }
+        $(".icon").attr("src",og_table["picture"]);
 }
 
 function giveTitle(){
