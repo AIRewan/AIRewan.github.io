@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=Beaufort+for+LOL+Bold" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href = "jquery-ui.theme.css" rel = "stylesheet">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src = "https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+    <title>Guess the Quote</title>
+</head>
+<body>   
+    <script type="text/javascript" src="make_it_work.js"></script>
+    <section id="cim">
+    <h1>Guess the Quote!</h1>
+    <img class="line" src="https://universe.leagueoflegends.com/images/t1HeaderDivider.png">
+    </section>
+
+    <section id="main_container">
+        <div id="icon_container">
+        <img id="icon" src="source/question.jpg">
+        </div>
+        <div id="quote"></div>
+        <div id="solution"></div>
+        </div>
+        </section>
+        <section id="inputs">
+            <input autocomplete = off type="text" id="quess" class="guess" placeholder="Hmm who can it be?">
+            <input type="button" id="sub" class="sub" value="Submit">
+        </section>    
+
+        <div id="result"></div>
+        <form id="reset"><input type="submit" id="restart" class="restart" value="Restart" ></form>
+        
+        <div id="not_that">
+
+            <table id="table_of_miss">
+                <tr><td id="sex"></td><td id="pos"></td><td id="type"></td><td id="mana"></td><td id="ran"></td><td id="rel"></td></tr>
+            </table>
+        </div>
+        
+    </section>
+</body>
+</html>

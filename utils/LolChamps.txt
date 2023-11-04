@@ -1,0 +1,165 @@
+Aatrox;Darkin;Male
+Ahri;Vastayan;Female
+Akali;Human;Female
+Akshan;Human;Male
+Alistar;Minotaur;Male
+Amumu;Undead, Yordle;Male
+Anivia;Spirit, God;Female
+Annie;Human, Magicborn;Female
+Aphelios;Human, Spiritualist;Male
+Ashe;Human, Iceborn;Female
+Aurelion Sol;Celestial, Dragon;Male
+Azir;God-Warrior;Male
+Bard;Celestial;Male
+Blitzcrank;Golem;Male
+Brand;Human, Magically Altered;Male
+Braum;Human, Iceborn;Male
+Briar;Human, Magically Altered;Female
+Bel'Veth;Void-being;Female
+Caitlyn;Human;Female
+Camille;Human, Cyborg;Female
+Cassiopeia;Human, Magically Altered;Female
+Cho'Gath;Void-Being;Male
+Corki;Yordel;Male
+Darius;Human;Male
+Diana;Human, Aspect;Female
+Draven;Human;Male
+Dr. Mundo;Human, Chemically Altered;Male
+Ekko;Human;Male
+Elise;Human, Magically Altered;Female
+Evelynn;Demon, Spirit;Female
+Ezreal;Human, Magicborn;Male
+Fiddlesticks;Demon, Spirit;Male
+Fiora;Human;Female
+Fizz;Yordle;Male
+Galio;Golem;Male
+Gangplank;Human;Male
+Garen;Human;Male
+Gnar;Yordle;Male
+Gragas;Human;Male
+Graves;Human;Male
+Gwen;Human, Magically Altered;Female
+Hecarim;Undead;Male
+Heimerdinger;Yordle;Male
+Illaoi;Human, Spiritualist;Female
+Irelia;Human, Spiritualist;Female
+Ivern;Human, Magically Altered;Male
+Janna;Spirit, God;Female
+Jarvan IV;Human;Male
+Jax;Unknown;Male
+Jayce;Human;Male
+Jhin;Human, Spiritualist;Male
+Jinx;Human;Female
+Kai'sa;Human, Void-Being;Female
+Kalista;Undead;Female
+Karma;Human, Spiritualist;Female
+Karthus;Undead;Male
+Kassadin;Human, Void-Being;Male
+Katarina;Human;Female
+Kayle;Human, Magically Altered, Aspect;Female
+Kayn;Darkin,Human, Magically Altered;Male
+Kennen;Yordle;Male
+Kha'Zix;Void-Being;Male
+Kindred;Spirit, God;Other
+Kled;Yordle;Male
+Kog'Maw;Void-Being;Male
+K'Sante;Human;Male
+LeBlanc;Human, Magically Altered;Female
+Lee Sin;Human, Spiritualist;Male
+Leona;Human, Aspect;Female
+Lillia;Spirit;Female
+Lissandra;Human, Iceborn;Female
+Lucian;Human;Male
+Lulu;Yordle;Female
+Lux;Human;Female
+Malphite;Golem;Male
+Malzahar;Human, Void-Being;Male
+Maokai;Spirit;Male
+Master Yi;Human, Spiritualist;Male
+Milio;Human;Male
+Miss Fortune;Human;Female
+Mordekaiser;Revenant;Male
+Morgana;Human, Magically Altered,Aspect;Female
+Naafiri;Darkin;Male
+Nami;Vastayan;Female
+Nasus;God-Warrior;Male
+Nautilus;Revenant;Male
+Neeko;Vastayan;Female
+Nidalee;Human, Spiritualist;Female
+Nilah;Human, Magically Altered;Female
+Nocturne;Demon, Spirit;Male
+Nunu & Willump;Human, Yeti;Male
+Olaf;Human, Iceborn;Male
+Orianna;Golem;Female
+Ornn;Spirit, God;Male
+Pantheon;Human, Aspect;Male
+Poppy;Yordle;Female
+Pyke;Revenant;Male
+Qiyana;Human, Magicborn;Female
+Quinn;Human;Female
+Rakan;Vastayan;Male
+Rammus;God-Warrior;Male
+Rek'Sai;Void-Being;Female
+Rell;Human, Magicborn, Magically Altered;Female
+Renata Glasc;Human, Chemically Altered;Female
+Renekton;God-Warrior;Male
+Rengar;Vastayan;Male
+Riven;Human;Female
+Rumble;Yordle;Male
+Ryze;Human, Magically Altered;Male
+Samira;Human;Female
+Sejuani;Human, Iceborn;Female
+Senna;Human, Undead;Female
+Seraphine;Human, Magicborn;Female
+Sett;Human, Vastayan;Male
+Shaco;Spirit;Male
+Shen;Human, Spiritualist;Male
+Shyvana;Dragon;Female
+Singed;Human, Chemically Altered;Male
+Sion;Revenant;Male
+Sivir;Human;Female
+Skarner;Brackern;Male
+Sona;Human, Magicborn;Female
+Soraka;Celestial;Female
+Swain;Human, Magically Altered;Male
+Sylas;Human, Magicborn;Male
+Syndra;Human, Magicborn;Female
+Tahm Kench;Demon, Spirit;Male
+Taliyah;Human, Magicborn;Female
+Talon;Human;Male
+Taric;Human, Aspect;Male
+Teemo;Yordle;Male
+Thresh;Undead;Male
+Tristana;Yordle;Female
+Trundle;Troll, Iceborn;Male
+Tryndamere;Human, Magically Altered;Male
+Twisted Fate;Human;Male
+Twitch;Rat, Chemically Altered;Male
+Udyr;Human, Spiritualist;Male
+Urgot;Human, Chemically Altered, Cyborg;Male
+Varus;Darkin, Human;Male
+Vayne;Human;Female
+Veigar;Yordle;Male
+Vel'Koz;Void-Being;Male
+Vex;Yordle;Female
+Vi;Human;Female
+Viego;Undead;Male
+Viktor;Human, Cyborg;Male
+Vladimir;Human, Magically Altered;Male
+Volibear;Spirit, God;Male
+Warwick;Human, Chemically Altered, Cyborg;Male
+Wukong;Vastayan;Male
+Xayah;Vastayan;Female
+Xerath;God-Warrior;Male
+Xin Zhao;Human;Male
+Yasuo;Human, Magicborn;Male
+Yone;Human, Magically Altered;Male
+Yorick;Human, Magically Altered;Male
+Yuumi;Cat, Magically Altered;Female
+Zac;Golem;Male
+Zed;Human, Magically Altered;Male
+Zeri;Human, Magicborn;Female
+Ziggs;Yordle;Male
+Zilean;Human, Magicborn;Male
+Zoe;Human, Aspect;Female
+Zyra;Unknown;Female
