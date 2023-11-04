@@ -135,9 +135,9 @@ input[type="button"]:hover{
 
 table{
     font-family: "Open Sans";
-    font-size: 1vw;
+    font-size: 0.8vw;
     font-weight: bold;
-    width: 100%;
+    width: 80%;
     margin: auto;
     margin-top: 2vw;
     text-align: center;
@@ -146,8 +146,8 @@ table{
 }
 
 td{
-    padding-top: 0.5vw;
-    padding-bottom: 0.5vw;
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
     border: 1px solid transparent;
 }
 
