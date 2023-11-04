@@ -252,7 +252,8 @@ function giveSolution(og_table){
     }
         $(".icon").css("background-image",'url("'+og_table["picture"]+'")')
         $(".icon").css("background-position", og_table["picture_position"])
-        
+        $(".icon").css("border", "2px solid green")
+           
 }
 
 function giveTitle(){
