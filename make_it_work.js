@@ -11,9 +11,15 @@ $.getJSON("data.json", function(result){
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-$(window).on('load',function(){                            // on load asks a quote
-    const pick= randomInt(0,keys.length-1)
-    champ = keys[pick]
+$(window).on('load',function(){
+    if (typeof keys == "object"){                            // on load asks a quote
+        const pick= randomInt(0,keys.length-1)
+        champ = keys[pick]
+    }
+    else{
+        $(".restart").trigger("click")
+    }
+
     giveQuote(champ)
     $(".icon").css("background-image",'url("question.jpg")');
 })
