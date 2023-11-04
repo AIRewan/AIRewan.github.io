@@ -50,7 +50,7 @@ Jax;Unknown;Male
 Jayce;Human;Male
 Jhin;Human, Spiritualist;Male
 Jinx;Human;Female
-Kai'sa;Human, Void-Being;Female
+Kai'Sa;Human, Void-Being;Female
 Kalista;Undead;Female
 Karma;Human, Spiritualist;Female
 Karthus;Undead;Male
