@@ -24,7 +24,7 @@ $(window).on('load',function(){                            // on load asks a quo
     champ = keys[pick]
     console.log(picked_Q)
     giveQuote(champ)
-    $(".icon").css("background-image",'url("source\\question.jpg")');
+    $(".icon").css("background-image",'url("source/question.jpg")');
 })
 
 $(window).on('load',function(){

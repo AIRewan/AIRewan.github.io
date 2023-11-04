@@ -1,9 +1,9 @@
-champF = open("AIRewan.github.io\\utils\\data.txt", "r")
+champF = open("utils\\data.txt", "r")
 champ0 = champF.readlines()
 champs = sorted(champ0)
 champF.close()
 
-quoteS = open("AIRewan.github.io\\utils\\quotes.txt", "r")
+quoteS = open("utils\\quotes.txt", "r")
 quote0= quoteS.readlines()
 quotes= sorted(quote0)
 quoteS.close()
@@ -16,7 +16,7 @@ for q in quotes:
     values[-1]=values[-1].strip()[0:-1]
     QD[key]=values
 
-file = open("AIRewan.github.io\\source\\data.json", "a")
+file = open("source\\data.json", "a")
 file.writelines("{\n")
 file.close()
                   #         0           1           2     3     4       5    6        7            8      9             10
@@ -43,7 +43,7 @@ for c in champs:  #Lux*  picture;picture_position;Female;2010;Demacia;Human;Mage
         if QD[champion][-1]!=q:
             quote+=","
 
-    file = open("AIRewan.github.io\\source\\data.json", "a")
+    file = open("source\\data.json", "a")
     file.writelines(('  "{ch}": {{\n').format(ch=champion))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture=}'.split('=')[0], n=picture))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture_position=}'.split('=')[0], n=picture_position))

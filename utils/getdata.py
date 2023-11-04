@@ -6,7 +6,7 @@ from collections import defaultdict
 mainUrl= "https://universe.leagueoflegends.com/en_AU/champion/"
 secUrl= "https://leagueoflegends.fandom.com/wiki/"
 
-champF = open("AIRewan.github.io\\utils\\LolChamps.txt", "r")
+champF = open("utils\\LolChamps.txt", "r")
 lines = champF.readlines()
 champF.close()
 
@@ -131,7 +131,7 @@ for line in lines:
     print(champDict[name])
     print()
 
-    file = open("AIRewan.github.io\\utils\\data.txt", "a")
+    file = open("utils\\data.txt", "a")
     file.writelines(name+"*"+champDict[name][0][0]+';'+champDict[name][0][10]+";"+champDict[name][0][1]+";"+champDict[name][0][2]+";"+champDict[name][0][3]+";"+champDict[name][0][4]+";"+champDict[name][0][5]+";"+champDict[name][0][6]+";"+champDict[name][0][7]+";"+champDict[name][0][8]+";"+champDict[name][0][9]+"\n")
     file.close()
 
