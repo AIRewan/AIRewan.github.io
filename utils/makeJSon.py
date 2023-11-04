@@ -16,7 +16,7 @@ for q in quotes:
     values[-1]=values[-1].strip()[0:-1]
     QD[key]=values
 
-file = open("source\\data.json", "a")
+file = open("data.json", "a")
 file.writelines("{\n")
 file.close()
                   #         0           1           2     3     4       5    6        7            8      9             10
@@ -43,7 +43,7 @@ for c in champs:  #Lux*  picture;picture_position;Female;2010;Demacia;Human;Mage
         if QD[champion][-1]!=q:
             quote+=","
 
-    file = open("source\\data.json", "a")
+    file = open("data.json", "a")
     file.writelines(('  "{ch}": {{\n').format(ch=champion))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture=}'.split('=')[0], n=picture))
     file.writelines(('      "{k}": "{n}",\n').format(k= f'{picture_position=}'.split('=')[0], n=picture_position))

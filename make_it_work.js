@@ -4,7 +4,7 @@ const picked_Q=[]
 let champ
 let miss_counter = 0
 
-$.getJSON("source\\data.json", function(result){
+$.getJSON("data.json", function(result){
         data=result
         keys= Object.keys(data)
     })
@@ -15,7 +15,7 @@ $(window).on('load',function(){                            // on load asks a quo
     const pick= randomInt(0,keys.length-1)
     champ = keys[pick]
     giveQuote(champ)
-    $(".icon").css("background-image",'url("source/question.jpg")');
+    $(".icon").css("background-image",'url("question.jpg")');
 })
 
 $(window).on('load',function(){
