@@ -103,7 +103,13 @@ function checkIfValid(pc){
 
 function fillTable(pc){
 
-    if(pc.includes(" ") && !pc.includes("&")){
+    if("blank"){
+        pc= "LeBlank"
+    }
+    else if(pc.includes("&")){
+        pc= "Nunu & Willump"
+    }
+    else if(pc.includes(" ")){
         let sep= pc.split(" ")
         let pc1= sep[0][0].toUpperCase()+sep[0].substring(1)  //T  ahm   K  ench
         let pc2= sep[1][0].toUpperCase()+sep[1].substring(1)
@@ -115,9 +121,7 @@ function fillTable(pc){
         let pc2= sep[1][0].toUpperCase()+sep[1].substring(1)
         pc= pc1+"'"+pc2
     }
-    else if(pc.includes("&")){
-        pc= "Nunu & Willump"
-    }
+   
     else{
         pc= pc[0].toUpperCase()+pc.substring(1).toLowerCase()
     }
